@@ -1,4 +1,4 @@
-"""dynamic_programming.py: This module demonstrates an exemplative code of the dijkstra algorithm.
+"""dijkstra.py: This module demonstrates an exemplative code of the dijkstra algorithm.
     Neither python dictionaries or sets are used in this module.
     Complexities mentioned in this file is of Worst Time unless otherwise specified."""
 
