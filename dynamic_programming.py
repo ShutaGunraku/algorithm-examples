@@ -1,6 +1,6 @@
 """dynamic_programming.py: This module demonstrates an exemplative code of the dynamic programming paradigm.
     Neither python dictionaries or sets are used in this module.
-    Time Complexity mentioned in this file is of Worst Time unless otherwise specified."""
+    Complexities mentioned in this file is of Worst Time unless otherwise specified."""
 
 __author__ = "Shuta Gunraku"
 
