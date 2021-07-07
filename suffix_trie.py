@@ -1,5 +1,5 @@
 """suffix_trie.py: This module demonstrates an exemplative code of suffix trie using a node class and
-                   a OrfFinder class which uses the suffix trie structure to store data.
+                   an OrfFinder class which uses the suffix trie structure to store data.
     Neither python dictionaries or sets are used in this module.
     Complexities mentioned in this file is of Worst Time unless otherwise specified."""
 
